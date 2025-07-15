@@ -1,0 +1,7 @@
+Package: pipeline-project
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: amd64
+Maintainer: Aparna <raviaparna170@gmail.com>
+Description: Real-time streaming data pipeline with FFT, input/output sources, and configuration.

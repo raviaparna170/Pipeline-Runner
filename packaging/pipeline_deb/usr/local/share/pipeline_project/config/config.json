@@ -1,0 +1,25 @@
+{
+  "source": {
+    "type": "file", 
+    "sine": {
+      "frequency": 1.0,
+      "amplitude": 1.0,
+      "sampling_rate": 10
+    },
+    "file": {
+      "path": "../input/sample_data.txt",
+      "sampling_rate": 10
+    }
+  },
+  "pipeline": [
+    {
+      "type": "fft"
+    }
+  ],
+  "output": [
+    {
+      "type": "file",
+      "path": "../output/results.txt"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+# Ignore build and binary files
+/build/
+/packaging/pipeline_deb.deb
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.log
+*.out
+
+# Ignore CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Editor/OS-specific files
+*.user
+*.DS_Store
