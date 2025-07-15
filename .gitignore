@@ -1,6 +1,5 @@
 # Ignore build and binary files
 /build/
-/packaging/pipeline_deb.deb
 *.exe
 *.obj
 *.o

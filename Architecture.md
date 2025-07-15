@@ -1,4 +1,4 @@
-# Architecture: Real-Time Streaming Data Pipeline
+# Architecture: Pipeline Runner
 
 ## Overview
 

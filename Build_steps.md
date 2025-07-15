@@ -1,4 +1,4 @@
-# Build Instructions for Real-Time Streaming Data Pipeline
+# Build Instructions for Pipeline Runner
 
 This document provides step-by-step instructions to build and run the project on a system using **CMake** and **Ninja** build system with **MSYS2 (UCRT64)** on Windows.
 

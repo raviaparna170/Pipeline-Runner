@@ -1,4 +1,4 @@
-# Runbook: Real-Time Streaming Data Pipeline
+# Runbook: Pipeline Runner
 
 This document provides operational guidance for running the pipeline application, including how to execute it with different configurations, interpret the output, and troubleshoot common issues.
 
