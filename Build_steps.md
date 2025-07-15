@@ -17,9 +17,8 @@ This document provides step-by-step instructions to build and run the project on
 ## Build Steps
 
 1. Clone the Repository
-- git clone <your-repo-url>
-- cd pipeline_project
-
+- git clone https://github.com/raviaparna170/Pipeline-Runner.git
+- cd Pipeline-Runner
 2. Create a Build Directory
 - mkdir build
 - cd build
