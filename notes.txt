@@ -1,0 +1,19 @@
+Modifications in the Architecture:
+Each stage (source → transform → sink) is a separate binary
+PipelineRunnerProcess orchestrates the entire flow using a JSON configuration
+
+Modifications in the folder structure:
+---modules/SineGeneratorMain.cpp  
+---modules/FileSourceMain.cpp 
+---modules/FileSinkMain.cpp   
+---modules/FFTMain.cpp 
+
+---pipeline/PipelineRunnerProcess.cpp
+
+
+*** execute the whole pipeline using
+./PipelineRunnerProcess ../config/config.json
+
+
+
+
